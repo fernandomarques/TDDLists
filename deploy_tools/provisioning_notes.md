@@ -24,16 +24,16 @@ eg, on Ubuntu:
 ## Folder structure:
 Assume we have a user account at /home/username
 
-/home/username
- |
- +-- functional_tests
- |
- +-- deploy_tools
- |
- +-- lists
+/home/username  
  |  
- +-- superlists
- |
- +-- manage.py
- |
- +--requirements.txt
+ +-- functional_tests  
+ |  
+ +-- deploy_tools  
+ |  
+ +-- lists  
+ |    
+ +-- superlists  
+ |  
+ +-- manage.py  
+ |  
+ +--requirements.txt  
