@@ -25,9 +25,18 @@ eg, on Ubuntu:
 Assume we have a user account at /home/username
 
 /home/username
-|__ sites
-   |_______SITENAME
-            |--- database
-	    |--- source
-	    |--- static
-	    |___ virtualenv
+ÃÄÄÄfunctional_tests
+ÃÄÄÄdeploy_tools
+³   ÀÄÄÄ__pycache__
+ÃÄÄÄlists
+³   ÃÄÄÄmigrations
+³   ³   ÀÄÄÄ__pycache__
+³   ÃÄÄÄstatic
+³   ³   ÀÄÄÄbootstrap
+³   ³       ÃÄÄÄcss
+³   ³       ÃÄÄÄfonts
+³   ³       ÀÄÄÄjs
+³   ÃÄÄÄtemplates
+³   ÀÄÄÄ__pycache__
+ÀÄÄÄsuperlists
+    ÀÄÄÄ__pycache__
